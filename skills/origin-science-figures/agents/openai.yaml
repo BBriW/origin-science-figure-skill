@@ -1,0 +1,4 @@
+interface:
+  display_name: "Origin Science Figures"
+  short_description: "Format and verify editable Origin scientific figures"
+  default_prompt: "Use $origin-science-figures to make publication-ready figures from my Origin project."
